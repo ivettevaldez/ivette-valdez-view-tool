@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+IvetteValdezViewTool::Renderer.copyright 'Ivette Valdez', 'All rights reserved.'
+```
 
 ## Development
 
